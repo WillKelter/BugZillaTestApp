@@ -1,7 +1,7 @@
 # BugZillaTestApp
 Test App with BugZilla RestAPI
 
-![](mainscreen.gif)
+![](screen.gif)
 
 Work with Local Database
 ![](localDB.gif)
