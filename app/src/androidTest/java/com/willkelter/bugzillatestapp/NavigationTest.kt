@@ -1,4 +1,4 @@
-package com.willkelter.bugzillatestapp.data.domain
+package com.willkelter.bugzillatestapp
 
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.test.*

@@ -12,7 +12,7 @@ import com.willkelter.bugzillatestapp.data.domain.LocalRepository
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 
-
+//TODO Fix comparison and Toast
 class DataUpdateWorker(context: Context, workerParams: WorkerParameters) : Worker(context,
     workerParams) {
     private val bugsRepository = BugsRepositoryImpl()

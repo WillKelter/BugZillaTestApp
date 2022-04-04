@@ -6,6 +6,7 @@ import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import com.willkelter.bugzillatestapp.data.BugModel
 
+//DAO for Local Database
 @Dao
 interface BugsDao {
 

@@ -42,5 +42,5 @@ fun DetailScreen(bugModel: BugModel){
 @Composable
 @Preview(showBackground = true)
 fun  DetailScreenPreview() {
-    DetailScreen(bugModel = BugModel(1, "2", "3", "4", "5", "6", true, "8", "9", "component"))
+    DetailScreen(bugModel = BugModel(1, "user@mail.com", "test_product", "10.12.21", "5", "6", true, "8", "9", "component"))
 }
